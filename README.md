@@ -2,7 +2,7 @@
 my Javascript libraries.
 
 Please
-```shell
+```bash
 cd yourrepo/
 git submodule add https://github.com/koteitan/jslib.git lib
 cd lib
@@ -20,4 +20,10 @@ vim index.html
 <script type="text/javascript" src="./jslib/excanvas.js"></script>
 <script type="text/javascript" src="./jslib/event.js"></script>
 <script type="text/javascript" src="./jslib/geom.js"></script>
+```
+
+```bash
+git add index.html
+git commit -m"add jslib"
+git push
 ```

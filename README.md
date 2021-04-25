@@ -2,4 +2,11 @@
 my Javascript libraries.
 
 Please
-```git submodule add https://github.com/koteitan/jslib.git```
+```shell
+cd yourrepo/
+git submodule add https://github.com/koteitan/jslib.git lib
+cd lib
+git submodule init
+git submodule update
+git remote set-url 
+```

@@ -1,7 +1,7 @@
 # jslib
 my Javascript libraries.
 
-Please
+Please do the following after creating your new repository.
 ```bash
 cd yourrepo/
 git submodule add https://github.com/koteitan/jslib.git lib

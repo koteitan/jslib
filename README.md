@@ -2,5 +2,4 @@
 my Javascript libraries.
 
 Please
-```git submodule add https://github.com/koteitan/jslib.git
-```
+```git submodule add https://github.com/koteitan/jslib.git```
